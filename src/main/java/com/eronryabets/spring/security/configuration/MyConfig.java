@@ -20,6 +20,6 @@ public class MyConfig {
         internalResourceViewResolver.setSuffix(".jsp");
         return internalResourceViewResolver;
     }
-    //test222
+
 
 }
